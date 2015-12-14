@@ -1,0 +1,8 @@
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\Phoneword.dll
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\System.Core.dll
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\System.dll
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Matthew\Documents\Projects\Phoneword\Phoneword\obj\Debug\assemblies\System.ServiceModel.Internals.dll
